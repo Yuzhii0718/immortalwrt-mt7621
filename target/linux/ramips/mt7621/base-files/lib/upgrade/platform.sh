@@ -62,6 +62,7 @@ platform_do_upgrade() {
 	iptime,a3004t|\
 	iptime,ax2004m|\
 	iptime,t5004|\
+	fcj,g-ax1800-f|\
 	jcg,q20|\
 	linksys,e5600|\
 	linksys,ea6350-v4|\
